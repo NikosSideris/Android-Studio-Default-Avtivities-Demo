@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.defaultactivities.MainScrollingActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="Navigation Drawer"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_Bottom"
+        android:orderInCategory="100"
+        android:title="Bottom Navigation"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_fullscreen"
+        android:orderInCategory="100"
+        android:title="Fullscreen"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_login"
+        android:orderInCategory="100"
+        android:title="Login"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_master_detail"
+        android:orderInCategory="100"
+        android:title="Master Detail"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_tabbed"
+        android:orderInCategory="100"
+        android:title="Tabbed"
+        app:showAsAction="never" />
+</menu>
